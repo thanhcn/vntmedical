@@ -1,2 +1,0 @@
-# vntmedical
-vnt company
